@@ -45,11 +45,11 @@ HTML / CSS / JavaScript / PHP / SQL
 
 ## 🎨 ポートフォリオ
 ### WordPress オリジナルテーマ開発
-[https://rtbgr-study.net/](https://rtbgr-study.net/)
+URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 
-▼ 言語 ：　HTML・CSS（SCSS）・JavaScript（jQuery）・PHP
+🔸 言語 ：　HTML・CSS（SCSS）・JavaScript（jQuery）・PHP
 
-▼ 説明
+🔸 説明
 - デザインカンプからオリジナルテーマをコーディング。
 - front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php を実装。
 - レスポンシブ対応。
@@ -59,27 +59,28 @@ HTML / CSS / JavaScript / PHP / SQL
 - プラグイン「ACF」にてカスタムフィールド作成。
 - プラグイン「WP-PageNavi」にてページナビゲーションを設定。
 
-▼ Github：https://github.com/ko-haru-58/rt-hamburger
+🔸 Github：https://github.com/ko-haru-58/rt-hamburger
 
-### HP/LP コーディング
-[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
+### LP（Webページ） コーディング
+URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 
-▼ 言語 ：　HTML・CSS（SCSS）
+🔹 言語 ：　HTML・CSS（SCSS）
 
-▼ デザインについて
+🔹 デザインについて
+
 コーディング練習サイト「模写修行」のデザインを利用してコーディングしました。
 
 模写修行：https://moshashugyo.com/
 
-▼ 説明
+🔹 説明
 - 写真が美しいデザインのため、Retina対応を重視。
 - 一方で画像が重くなりすぎないよう、画面サイズに応じた画像が表示されるようにコーディング。
 - レスポンシブ対応。
 - CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
 
-▼ Github：https://github.com/ko-haru-58/pf-photographer
+🔹 Github：https://github.com/ko-haru-58/pf-photographer
 
-## Web制作を始めた理由
+## 🌱 Web制作を始めた理由
 世の中に必要とされる情報ほど上位に表示されるというSEOの仕組みに興味を持ち、個人でブログやサイトを運営する中で、Webの影響力を実感しました。
 
 会社員としては情シスやシステムサポートの業務がメインで、熱意を持って仕事に取り組む人の役に立てることにやりがいを感じる一方、このまま続けても何でも屋から抜け出すことができないだろうと感じていました。
