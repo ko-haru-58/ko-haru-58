@@ -44,7 +44,8 @@ HTML / CSS / JavaScript / PHP / SQL
 - マーケティングの視点を持ちながらWeb制作をすることができます。
 
 ## 🎨 ポートフォリオ
-### WordPress オリジナルテーマ開発
+### WordPress オリジナルテーマ開発 🍔 
+![ハンバーガーショップのサイト](/images/hamburger-shop.png)
 URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 
 🔸 言語 ：　HTML・CSS（SCSS）・JavaScript（jQuery）・PHP
@@ -61,7 +62,8 @@ URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 
 🔸 Github：https://github.com/ko-haru-58/rt-hamburger
 
-### LP（Webページ） コーディング
+### LP（Webページ） コーディング 📸
+![写真家のサイト](/images/photographer.jpg)
 URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 
 🔹 言語 ：　HTML・CSS（SCSS）
