@@ -58,7 +58,7 @@ URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 
 🔸 説明
 - デザインカンプ（Figma）からオリジナルテーマをコーディング。
-- front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php を実装。
+- front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php 等を実装。
 - レスポンシブ対応。
 - CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
 - サイドバーにメニューを表示（PC）
