@@ -57,7 +57,7 @@ URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 🔸 言語 ：　HTML・CSS（SCSS）・JavaScript（jQuery）・PHP
 
 🔸 説明
-- デザインカンプからオリジナルテーマをコーディング。
+- デザインカンプ（Figma）からオリジナルテーマをコーディング。
 - front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php を実装。
 - レスポンシブ対応。
 - CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
@@ -81,6 +81,7 @@ URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 模写修行：https://moshashugyo.com/
 
 🔹 説明
+- デザインカンプ（Figma）からコーディング。
 - 写真が美しいデザインのため、Retina対応を重視。
 - 一方で画像が重くなりすぎないよう、画面サイズに応じた画像が表示されるようにコーディング。画像はWebPに。
 - GSAP によるアニメーション作成。
