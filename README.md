@@ -71,7 +71,7 @@ URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 ![写真家のサイト](/images/photographer.jpg)
 URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 
-🔹 言語 ：　HTML・CSS（SCSS）
+🔹 言語 ：　HTML・CSS（SCSS）・JavaScript（GSAP）
 
 🔹 デザインについて
 
