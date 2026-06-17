@@ -1,3 +1,55 @@
+## 🎨 ポートフォリオ
+### WordPress オリジナルテーマ開発 🍔 
+![ハンバーガーショップのサイト](/images/hamburger-shop.png)
+URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
+
+WordPressをゼロから構築し、デザインカンプを元にオリジナルテーマを作成しました。PHP等の実装もしています。
+
+<details><summary>詳しい説明（折りたたみが開きます）</summary>
+
+🔸 言語：HTML / CSS（SCSS）/ JavaScript（jQuery）/ PHP
+
+🔸 説明
+- デザインカンプ（Figma）からオリジナルテーマをコーディング。
+- front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php 等を実装。
+- レスポンシブ対応。
+- CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
+- サイドバーにメニューを表示（PC）
+- JavaScript（jQuery）によるメニュー開閉（タブレット・スマホ）
+- プラグイン「ACF」にてカスタムフィールド作成。
+- プラグイン「WP-PageNavi」にてページナビゲーションを設定。
+
+🔸 Github：https://github.com/ko-haru-58/rt-hamburger
+</details>
+
+### LP（Webページ） コーディング 📸
+![写真家のサイト](/images/photographer.jpg)
+URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
+
+写真が美しいページのため、画像の画質を高めつつ表示スピードの改善も実施しました。
+
+<details><summary>詳しい説明（折りたたみが開きます）</summary>
+  
+🔹 言語：HTML / CSS（SCSS）/ JavaScript（GSAP）
+
+🔹 デザインについて
+
+コーディング練習サイト「模写修行」のデザインを利用してコーディングしました。
+
+模写修行：https://moshashugyo.com/
+
+🔹 説明
+- デザインカンプ（Figma）からコーディング。
+- 写真が美しいデザインのため、Retina対応を重視。
+- 一方で重くなりすぎないよう、画面サイズに応じた画像が表示されるようにコーディング。軽量化のためWebPやAVIFも利用。
+- PageSpeed Insight でのチェックを実施し、表示スピードを改善。スマホでのパフォーマンスのスコアはおおよそ90。
+- GSAP によるアニメーション作成。
+- レスポンシブ対応。
+- CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
+
+🔹 Github：https://github.com/ko-haru-58/pf-photographer
+</details>
+
 ## 🙂 自己紹介
 - 名前：こはる
 - 横浜市在住。夫婦2人暮らし。40代前半。
@@ -47,47 +99,6 @@ HTML / CSS / JavaScript / PHP / SQL
 - トレンドブログにて月50万PVが最高。
 - 知人の仕事を紹介した記事では、数百万円規模の案件獲得に貢献。
 - マーケティングの視点を持ちながらWeb制作をすることができます。
-
-## 🎨 ポートフォリオ
-### WordPress オリジナルテーマ開発 🍔 
-![ハンバーガーショップのサイト](/images/hamburger-shop.png)
-URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
-
-🔸 言語 ：　HTML・CSS（SCSS）・JavaScript（jQuery）・PHP
-
-🔸 説明
-- デザインカンプ（Figma）からオリジナルテーマをコーディング。
-- front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php 等を実装。
-- レスポンシブ対応。
-- CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
-- サイドバーにメニューを表示（PC）
-- JavaScript（jQuery）によるメニュー開閉（タブレット・スマホ）
-- プラグイン「ACF」にてカスタムフィールド作成。
-- プラグイン「WP-PageNavi」にてページナビゲーションを設定。
-
-🔸 Github：https://github.com/ko-haru-58/rt-hamburger
-
-### LP（Webページ） コーディング 📸
-![写真家のサイト](/images/photographer.jpg)
-URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
-
-🔹 言語 ：　HTML・CSS（SCSS）・JavaScript（GSAP）
-
-🔹 デザインについて
-
-コーディング練習サイト「模写修行」のデザインを利用してコーディングしました。
-
-模写修行：https://moshashugyo.com/
-
-🔹 説明
-- デザインカンプ（Figma）からコーディング。
-- 写真が美しいデザインのため、Retina対応を重視。
-- 一方で重くなりすぎないよう、画面サイズに応じた画像が表示されるようにコーディング。軽量化のためWebPやAVIFも利用。
-- GSAP によるアニメーション作成。
-- レスポンシブ対応。
-- CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
-
-🔹 Github：https://github.com/ko-haru-58/pf-photographer
 
 ## 🌱 Web制作を始めた理由
 世の中に必要とされる情報ほど上位に表示されるというSEOの仕組みに興味を持ち、個人でブログやサイトを運営する中で、Webの影響力を実感しました。
