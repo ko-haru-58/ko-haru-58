@@ -94,8 +94,12 @@ URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 - 日商簿記検定2級（2025年2月）
 - 過去に C# や C++ の開発も経験。バックエンドやデータベースの知見もあります。
 - React を学習し、デモを作成しています。
+
 <details><summary>React のデモ（折りたたみが開きます）</summary>
-上部の数値の変動はJSXファイルなどを実装。useState で状態を管理しています。下部のグラフはAI（Copilot）にて作成。
+  <video src="/images/simulator.mp4" controls width="100%"></video>
+  URL：https://pf02m.ha-site877.com/
+  
+  上部の数値の変動はJSXファイルなどを実装。useState で状態を管理しています。下部のグラフはAI（Copilot）にて作成。
 </details>
 
 ## 🎁 マーケティング
