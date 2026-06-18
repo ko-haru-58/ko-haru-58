@@ -33,7 +33,7 @@ HTML / CSS（SCSS）/ JS（GSAPによるアニメーション）
 
 </details>
 
-### 🍔 WordPress オリジナルテーマ開発 🍔 
+### 🍔 WordPress オリジナルテーマ 🍔 
 ![ハンバーガーショップのサイト](/images/hamburger-shop.png)
 URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 
@@ -63,7 +63,7 @@ HTML / CSS（SCSS）/ JavaScript（jQuery）/ PHP
 - 合わせて、既存ページのレイアウト修正なども対応。
 - メニューに都道府県別のページを追加するために、メニューのレイアウトの調整も対応。
 
-### 🔸 導入事例紹介｜カスタムフィールドの実装
+### 🔸 導入事例紹介｜カスタムフィールド
 💡 記事の投稿者にとって分かりやすいカスタムフィールドのUIを心がけました。
 - プラグイン「Advanced Custom Fields」にてカスタム投稿およびカスタムフィールドの機能を新規で実装。
 - ループ処理でアーカイブページを実装。
