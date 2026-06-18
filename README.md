@@ -7,7 +7,7 @@
 ![写真家のサイト](/images/photographer.jpg)
 URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 
-写真の画質を重視しつつも、画像最適化などにより表示スピードの改善も実施しました。
+✅ 写真の画質を重視しつつも、画像最適化などにより表示スピードの改善も実施しました。
 
 <details><summary>詳しい説明（折りたたみが開きます）</summary>
 
@@ -37,7 +37,7 @@ HTML / CSS（SCSS）/ JS（GSAPによるアニメーション）
 ![ハンバーガーショップのサイト](/images/hamburger-shop.png)
 URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
 
-WordPressのオリジナルテーマをコーディング。PHP等の実装もしています。
+✅ WordPressのオリジナルテーマをコーディング。PHP等の実装もしています。
 
 <details><summary>詳しい説明（折りたたみが開きます）</summary>
 
