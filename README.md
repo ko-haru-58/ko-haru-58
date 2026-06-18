@@ -97,7 +97,7 @@ URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 
 <details><summary>React のデモ（折りたたみが開きます）</summary>
   
-  ![積立シミュレーター](/images/simulator.jpg)
+  ![積立シミュレーター](/images/simulator.gif)
   URL：[https://pf02m.ha-site877.com/](https://pf02m.ha-site877.com/)
   
   上部の数値の変動はJSXファイルなどを実装。useState で状態を管理しています。下部のグラフはAI（Copilot）にて作成。
