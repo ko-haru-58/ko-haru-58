@@ -3,29 +3,6 @@
 - WordPress はオリジナルテーマの開発・カスタマイズに対応できます。
 
 ## 🎨 ポートフォリオ
-### 🍔 WordPress オリジナルテーマ開発 🍔 
-![ハンバーガーショップのサイト](/images/hamburger-shop.png)
-URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
-
-WordPressをゼロから構築し、デザインカンプを元にオリジナルテーマを作成しました。PHP等の実装もしています。
-
-<details><summary>詳しい説明（折りたたみが開きます）</summary>
-
-🔸 言語：HTML / CSS（SCSS）/ JavaScript（jQuery）/ PHP
-
-🔸 説明
-- デザインカンプ（Figma）からオリジナルテーマをコーディング。
-- front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php 等を実装。
-- レスポンシブ対応。
-- CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
-- サイドバーにメニューを表示（PC）
-- JavaScript（jQuery）によるメニュー開閉（タブレット・スマホ）
-- プラグイン「ACF」にてカスタムフィールド作成。
-- プラグイン「WP-PageNavi」にてページナビゲーションを設定。
-
-🔸 Github：https://github.com/ko-haru-58/rt-hamburger
-</details>
-
 ### 📸 LP（Webページ） コーディング 📸
 ![写真家のサイト](/images/photographer.jpg)
 URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
@@ -52,6 +29,29 @@ URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 - CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
 
 🔹 Github：https://github.com/ko-haru-58/pf-photographer
+</details>
+
+### 🍔 WordPress オリジナルテーマ開発 🍔 
+![ハンバーガーショップのサイト](/images/hamburger-shop.png)
+URL：[https://rtbgr-study.net/](https://rtbgr-study.net/)
+
+WordPressをゼロから構築し、デザインカンプを元にオリジナルテーマを作成しました。PHP等の実装もしています。
+
+<details><summary>詳しい説明（折りたたみが開きます）</summary>
+
+🔸 言語：HTML / CSS（SCSS）/ JavaScript（jQuery）/ PHP
+
+🔸 説明
+- デザインカンプ（Figma）からオリジナルテーマをコーディング。
+- front-page.php／single.php／page.php／archive.php／search.php／404.php／functions.php 等を実装。
+- レスポンシブ対応。
+- CSS設計にFLOCSSを採用。保守性を考慮したコーディング。
+- サイドバーにメニューを表示（PC）
+- JavaScript（jQuery）によるメニュー開閉（タブレット・スマホ）
+- プラグイン「ACF」にてカスタムフィールド作成。
+- プラグイン「WP-PageNavi」にてページナビゲーションを設定。
+
+🔸 Github：https://github.com/ko-haru-58/rt-hamburger
 </details>
 
 ## 👩‍💻 お仕事の実績
@@ -92,7 +92,9 @@ URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
 ## 💡 その他のスキル
 - 基本情報技術者（2010年5月）
 - 日商簿記検定2級（2025年2月）
-- 過去に C# や C++ の開発も経験。バックエンドやデータベースの知見もあります。
+- 個人でブログやサイトを運営していた経験から、コンテンツSEOの知見もあります。
+- マーケティング部のサポートで、広告代理店の対応やメルマガ配信、LPやバナーの設定等をしていました。
+- 過去に C# や C++ の開発も経験。バックエンドやデータベースの領域にも理解があります。
 - React を学習し、デモを作成しています。
 
 <details><summary>React のデモ（折りたたみが開きます）</summary>
@@ -102,14 +104,6 @@ URL：[https://pf01y.ha-site877.com/](https://pf01y.ha-site877.com/)
   
   上部の数値の変動はJSXファイルなどを実装。useState で状態を管理しています。下部のグラフはAI（Copilot）にて作成。
 </details>
-
-## 🎁 マーケティング
-- システムサポートの一環として、マーケティングの業務にも従事。
-- 広告代理店やASPとのやりとり、LPやバナーの出稿、メルマガ作成、SNS投稿など。
-- 個人でもブログやWordPressサイトを構築。
-- トレンドブログにて月50万PVが最高。
-- 知人の仕事を紹介した記事では、数百万円規模の案件獲得に貢献。
-- マーケティングの視点を持ちながらWeb制作をすることができます。
 
 ## 🌱 ビジョン
 世の中に必要とされる情報ほど上位に表示されるというSEOの仕組みに興味を持ち、個人でブログやサイトを運営する中で、Webの影響力を実感しました。
