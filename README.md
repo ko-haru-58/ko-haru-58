@@ -58,6 +58,14 @@ HTML / CSS（SCSS）/ JavaScript（jQuery）/ PHP
 </details>
 
 ## 👩‍💻 実績
+### 🏥 Studio 訪問看護ステーション 🏥 
+![訪問看護ステーションのサイト](/images/houmonkango.jpg)
+URL：[https://houmonkango-kitakyu.studio.site/](https://houmonkango-kitakyu.studio.site/)
+
+- Studioでの制作。要件のヒアリングからデザイン、Studioの設定、公開まで実施。
+- 医療系のため、文章や画像に誤解を招くような表現がないかは細心の注意を払う。
+- 清潔感や爽やかさのある色合いにしつつも、利用者の方々を思いやる温かさが伝わるようなデザインに。
+
 ### 🔸 人材紹介会社｜WordPress固定ページ追加
 💡 ざっくりとした指示書から、気づきや不明点は丁寧にコミュニケーションをとり対応しました。
 - 既存の業種別の紹介ページなどを参考に、都道府県別のページを新規で作成。
