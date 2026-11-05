@@ -58,11 +58,11 @@ HTML / CSS（SCSS）/ JavaScript（jQuery）/ PHP
 </details>
 
 ## 👩‍💻 実績
-### 🏥 Studio 訪問看護ステーション 🏥 
+### 🏥 Studio コーポレートサイト 🏥 
 ![訪問看護ステーションのサイト](/images/houmonkango.jpg)
 URL：[https://houmonkango-kitakyu.studio.site/](https://houmonkango-kitakyu.studio.site/)
 
-- Studioでの制作。要件のヒアリングからデザイン、Studioの設定、公開まで実施。
+- 訪問看護ステーションのサイトをStudioで制作。要件のヒアリングからデザイン、Studioの設定、公開まで実施。
 - 医療系のため、文章や画像に誤解を招くような表現がないかは細心の注意を払う。
 - 清潔感や爽やかさのある色合いにしつつも、利用者の方々を思いやる温かさが伝わるようなデザインに。
 
